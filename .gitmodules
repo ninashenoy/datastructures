@@ -1,3 +1,6 @@
 [submodule "linkedlist/googletest"]
 	path = linkedlist/googletest
 	url = https://github.com/google/googletest.git
+[submodule "doublelist/googletest"]
+	path = doublelist/googletest
+	url = https://github.com/google/googletest.git
